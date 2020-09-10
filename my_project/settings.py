@@ -26,7 +26,7 @@ SECRET_KEY = 'im@cx2_srryzicvb$ss&bvla__g1)fzks30g$l#g%3w83u34+e'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['django-social-auth.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
